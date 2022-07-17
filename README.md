@@ -1,2 +1,5 @@
-# fonts
 fonts for new linux system setup
+
+- the repo includes free to use and paid fonts.
+- by no means I promote piracy.
+- email me itz[@]gmail.com for copyright issue.
